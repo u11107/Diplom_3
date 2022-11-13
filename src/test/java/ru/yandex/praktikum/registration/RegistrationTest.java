@@ -1,4 +1,4 @@
-package ru.yandex.praktikum;
+package ru.yandex.praktikum.registration;
 
 import io.qameta.allure.Feature;
 import io.qameta.allure.junit4.DisplayName;

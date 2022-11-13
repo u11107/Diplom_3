@@ -82,12 +82,12 @@
       <module name="Diplom_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yandex.praktikum.*" />
+          <option name="PATTERN" value="ru.yandex.praktikum.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.yandex.praktikum" />
-      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.UserAuthorizationTest" />
+      <option name="PACKAGE_NAME" value="ru.yandex.praktikum.authorization" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.authorization.UserAuthorizationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,12 +97,12 @@
       <module name="Diplom_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yandex.praktikum.*" />
+          <option name="PATTERN" value="ru.yandex.praktikum.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.yandex.praktikum" />
-      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.UserAuthorizationTest" />
+      <option name="PACKAGE_NAME" value="ru.yandex.praktikum.authorization" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.praktikum.authorization.UserAuthorizationTest" />
       <option name="METHOD_NAME" value="successLoginFromRestorePasswordTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -113,7 +113,7 @@
       <module name="Diplom_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.yandex.praktikum.*" />
+          <option name="PATTERN" value="ru.yandex.praktikum.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

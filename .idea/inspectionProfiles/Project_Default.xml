@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="com.codeborne:selenide" />
+          <option value="org.aspectj:aspectjweaver" />
+          <option value="io.qameta.allure:allure-rest-assured" />
+          <option value="io.qameta.allure:allure-junit4" />
+          <option value="io.rest-assured:rest-assured" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

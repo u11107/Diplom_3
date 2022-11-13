@@ -14,7 +14,7 @@ import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.Assert.assertTrue;
 
-@Feature("Раздел «Конструктор»")
+@Feature("«Конструктор»")
 public class ConstructorTest extends Base {
 
 

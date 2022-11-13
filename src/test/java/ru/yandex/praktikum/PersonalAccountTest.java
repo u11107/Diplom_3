@@ -14,7 +14,7 @@ import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.Assert.assertTrue;
 
-@Feature("Переход в личный кабинет")
+@Feature("Личный кабинет")
 public class PersonalAccountTest extends Base {
 
     @Before

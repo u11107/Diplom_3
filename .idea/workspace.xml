@@ -52,8 +52,8 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean:test" />
-      <command value="mvn clean test" />
       <command value="mvn allure:serve" />
+      <command value="mvn clean test" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ru.yandex.praktikum in Diplom_3">

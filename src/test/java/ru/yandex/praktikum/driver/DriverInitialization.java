@@ -12,7 +12,7 @@ public class DriverInitialization {
     public void startBrowser() {
         String pathYandex = "src/main/resources/yandexdriver.exe";
         String pathChrome = "src/main/resources/chromedriver.exe";
-        System.setProperty("webdriver.chrome.driver", pathYandex);
+        System.setProperty("webdriver.chrome.driver", pathChrome);
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--start-maximized");
         options.addArguments("--headless");

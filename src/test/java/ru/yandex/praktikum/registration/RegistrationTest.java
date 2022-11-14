@@ -41,10 +41,10 @@ public class RegistrationTest extends Base {
     }
 
     @Test
-    @DisplayName("Проверка ошибки что пароль должен быть больше пяти знаков")
+    @DisplayName("Проверка ошибки что пароль должен быть больше шести знаков")
     public void returnErrorIfShortPasswordTest() {
         registrationPage
-                .inputNameEmailPasswordAndRegister(name, email, "12345");
+                .inputNameEmailPasswordAndRegister(name, email, "123456");
 
         assertTrue(registrationPage.returnTrueIfShowShortPasswordError());
 
